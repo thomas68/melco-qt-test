@@ -2,6 +2,7 @@
 #define MYLIB_H
 
 #include "mylib_global.h"
+#include <string>
 
 class MYLIBSHARED_EXPORT MyLib
 {
